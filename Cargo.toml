@@ -1,0 +1,12 @@
+[package]
+name = "rs-del"
+version = "0.1.1"
+authors = ["dmq"]
+edition = "2021"
+description = "删除空行和注释"
+license = "MIT"
+repository = "https://github.com/dmqweb/rust-del"
+homepage = "https://github.com/dmqweb/rust-del"
+documentation = "https://github.com/dmqweb/rust-del"
+
+[dependencies]
